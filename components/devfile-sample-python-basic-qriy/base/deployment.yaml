@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: load-app-763f93f1-fc44-413d-a708-621cde421eb5
   name: devfile-sample-python-basic-qriy
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
